@@ -14,10 +14,6 @@ import net.ingramintegrations.advancedlistviews.models.User;
 
 import java.util.ArrayList;
 
-/**
- * Created by Udemy on 4/6/2017.
- */
-
 public class UserAdapter extends ArrayAdapter<User> {
     public UserAdapter(Context context, ArrayList<User> users) {
         super(context, 0, users);

@@ -1,9 +1,5 @@
 package net.ingramintegrations.advancedlistviews.models;
 
-/**
- * Created by Udemy on 4/6/2017.
- */
-
 public class User {
     String name, hometown, age;
     int imageID;
